@@ -16,6 +16,12 @@ Eclipse
 This project was created using eclipse IDE. Once cloned, project should be as simple as open project, clean built and run.
 
 For NetBeans
+1. Make sure you have a copy of the project in your system
+2. Choose File> Import Project>Eclipse Project
+3. Choose one of the options given to store NetBeans project files
+6. Click Next
+7. Click Finish
+
 
 
 
